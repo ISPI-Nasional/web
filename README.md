@@ -1,41 +1,100 @@
-# Website
+# 🏗️ ISPI Nasional Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[![ISPI Logo](static/img/logo-ispi.png)](https://ispinasional.or.id)  
+**Ikatan Supervisi Nasional**  
+🌟 *Mengawal Kualitas Konstruksi Indonesia* 🌟  
 
-### Installation
+---
 
-```
-$ yarn
-```
+## 🚀 Deployment Guide
 
-### Local Development
+### GitHub Pages
+```bash
+npm install
+npm run build
+npm run deploy
 
-```
-$ yarn start
-```
+🌍 Live URL: https://ISPI-Nasional.github.io/web
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Cloudflare Pages
+    Connect GitHub repository
+    Build settings:
+        Build command: npm run build
+        Output directory: build
 
-### Build
+    Add environment variable:
+        NODE_VERSION = 18
 
-```
-$ yarn build
-```
+☁️ Production URL: https://ispinasional.or.id
+🤝 Cara Berkontribusi
+graph TB
+    A[Fork Repository] --> B[Clone Project]
+    B --> C[Buat Branch Baru]
+    C --> D[Commit Perubahan]
+    D --> E[Push ke GitHub]
+    E --> F[Buat Pull Request]
+Langkah Detail:
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+    🍴 Fork repo ini
+    bash
+    Copy
 
-### Deployment
+    git clone https://github.com/[USERNAME-ANDA]/web.git
+    cd web
+    git checkout -b kontribusi-anda
 
-Using SSH:
+    💻 Lakukan perubahan
+    bash
+    Copy
 
-```
-$ USE_SSH=true yarn deploy
-```
+    git add .
+    git commit -m "Menambahkan fitur: [JELASKAN PERUBAHAN]"
+    git push origin kontribusi-anda
 
-Not using SSH:
+    📦 Buat Pull Request di GitHub
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+🎉 Ucapan Terima Kasih
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Kepada Seluruh Anggota ISPI Nasional 🙌
+
+    "Bersama kita tingkatkan kualitas pengawasan konstruksi nasional!
+    Setiap ide dan kontribusi sangat berarti bagi kemajuan organisasi kita."
+    🧡💙🤍
+
+💌 Undangan Bergabung
+
+Kami mengundang rekan-rekan untuk berkontribusi:
+🔹 Developer: Perbaikan kode website
+🔹 Content Writer: Artikel konstruksi & supervisi
+🔹 Designer: Desain materi organisasi
+
+📢 Media Diskusi:
+WhatsApp
+Telegram
+✨ Kontributor
+
+🤩 Penghargaan untuk Kontributor Pertama:
+Contributors
+
+📜 "Supervisi Berkualitas, Konstruksi Berkelas"
+🏢 Ikatan Supervisi Nasional - ISPI 🏢
+Copy
+
+
+### Customization Checklist:
+1. Replace these placeholders:
+   - `static/img/logo-ispi.png` (path logo Anda)
+   - `https://wa.me/yourlink` (link WhatsApp group)
+   - `https://t.me/yourlink` (link Telegram)
+2. Tambahkan:
+   - Kontak penting di bagian "Undangan Bergabung"
+   - Panduan spesifik kontribusi (jika ada)
+3. Untuk update otomatis:
+   - Kontributor akan muncul otomatis setelah ada PR
+   - GIF bisa diganti dengan gambar tim Anda
+
+### Fitur Khusus:
+- **Mermaid.js** diagram alur kontribusi
+- **Shields.io** badge profesional
+- **Responsive** untuk semua device
+- **Emoji visual** untuk engagement
