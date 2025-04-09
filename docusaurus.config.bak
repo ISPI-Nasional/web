@@ -1,0 +1,142 @@
+// @ts-check
+import {themes as prismThemes} from 'prism-react-renderer';
+
+/** @type {import('@docusaurus/types').Config} */
+const config = {
+  title: 'ISPI Nasional',
+  tagline: 'Ikhlas Mengabdi, Profesional Berintegritas',
+  favicon: 'img/favicon.ico',
+
+  url: 'https://ispinasional.or.id',
+  baseUrl: '/',
+
+  organizationName: 'facebook',
+  projectName: 'ispi',
+
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+  i18n: {
+    defaultLocale: 'id',
+    locales: ['id'],
+  },
+
+  presets: [
+    [
+      'classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
+        docs: {
+          sidebarPath: './sidebars.js',
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        },
+        blog: {
+          showReadingTime: true,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
+        },
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      }),
+    ],
+  ],
+
+  themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    ({
+      image: 'img/docusaurus-social-card.jpg',
+      navbar: {
+        title: 'ISPI Nasional',
+        logo: {
+          alt: 'ISPI Nasional Logo',
+          src: 'img/logo.svg',
+        },
+        items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Beranda',
+          },
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://github.com/facebook/docusaurus',
+            label: 'GitHub',
+            position: 'right',
+          },
+        ],
+      },
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            title: 'Jelajahi ISPI Nasional',
+            items: [
+              {
+                label: 'Tentang Kami',
+                to: '/docs/tentang-kami',
+              },
+              {
+                label: 'Visi Misi',
+                to: '/docs/visi-misi',
+              },
+              {
+                label: 'Struktur Organisasi',
+                to: '/docs/struktur',
+              },
+              {
+                label: 'Keanggotaan',
+                to: '/docs/keanggotaan',
+              },
+            ],
+          },
+          {
+            title: 'Komunitas',
+            items: [
+              {
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/groups/14270833/',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://www.facebook.com/share/g/1A7yYqND8Z/',
+              },
+            ],
+          },
+          {
+            title: 'Informasi Lain',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'Dokumen',
+                href: '/docs/category/dokumen',
+              },
+              {
+                label: 'Kontak',
+                href: '/docs/kontak',
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} ISPI Nasional. Built with Docusaurus.`,
+      },
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      },
+    }),
+};
+
+export default config;

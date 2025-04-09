@@ -1,0 +1,33 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+# Example tags.yml content
+pengumuman:
+  label: Pengumuman
+  description: Informasi penting untuk anggota
+organisasi:
+  label: Organisasi
+  description: Tentang struktur dan kegiatan organisasi
+profil:
+  label: Profil
+  description: Profil organisasi dan anggota
+ad-art:
+  label: AD/ART
+  description: Anggaran Dasar dan Anggaran Rumah Tangga

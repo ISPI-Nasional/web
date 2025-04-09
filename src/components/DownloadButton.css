@@ -1,0 +1,26 @@
+.download-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
+  
+  .download-btn.primary {
+    background: var(--ifm-color-primary);
+    color: white;
+    border: none;
+  }
+  
+  .download-btn.outline {
+    background: transparent;
+    color: var(--ifm-color-primary);
+    border: 2px solid var(--ifm-color-primary);
+  }
+  
+  .download-btn:hover {
+    opacity: 0.9;
+    text-decoration: none;
+  }

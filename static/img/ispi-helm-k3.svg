@@ -1,0 +1,7 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Helm K3 -->
+  <path d="M20,70 Q50,20 80,70 H60 V50 H40 V70 Z" fill="#d32f2f" stroke="#000" stroke-width="2"/>
+  <!-- Pelindung atas -->
+  <rect x="30" y="40" width="40" height="10" fill="#ffffff" stroke="#000" stroke-width="2"/>
+  <text x="50" y="90" font-size="20" text-anchor="middle" fill="#000">K3</text>
+</svg>

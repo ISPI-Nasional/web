@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lingkaran merah sebagai latar -->
+  <circle cx="100" cy="100" r="90" fill="#d32f2f"/>
+  
+  <!-- Peta Indonesia sederhana -->
+  <path d="M70,90 L90,110 L85,130 L65,120 Z M100,130 L120,140 L130,130 L110,120 Z M130,90 L150,100 L145,80 L135,85 Z" fill="#ffffff" stroke="#000" stroke-width="1"/>
+  
+  <!-- Helm proyek -->
+  <path d="M80,60 Q100,30 120,60 H110 V50 H90 V60 Z" fill="#ffffff" stroke="#000" stroke-width="2"/>
+  <rect x="90" y="45" width="20" height="5" fill="#d32f2f" stroke="#000" stroke-width="1"/>
+  
+  <!-- Teks atas: Ikatan Supervisi Nasional -->
+  <text x="100" y="20" font-size="18" text-anchor="middle" fill="#ffffff" font-family="Arial">Ikatan Supervisi Nasional</text>
+  
+  <!-- Pita putih bawah -->
+  <path d="M40,160 Q100,180 160,160 L150,170 Q100,190 50,170 Z" fill="#ffffff" stroke="#000" stroke-width="2"/>
+  
+  <!-- Teks ISPI di pita -->
+  <text x="100" y="175" font-size="20" text-anchor="middle" fill="#d32f2f" font-family="Arial" font-weight="bold">ISPI</text>
+</svg>
