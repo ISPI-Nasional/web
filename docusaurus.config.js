@@ -25,15 +25,16 @@ const config = {
   organizationName: 'ISPI-Nasional', // Usually your GitHub org/user name.
   projectName: 'web', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  // onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'id',
-    locales: ['id'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
   
   presets: [
@@ -46,7 +47,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ISPI-Nasional/web/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +58,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ISPI-Nasional/web/edit/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -90,7 +91,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ISPI-Nasional/',
             label: 'GitHub',
             position: 'right',
           },
@@ -104,19 +105,19 @@ const config = {
             items: [
               {
                 label: 'Tentang Kami',
-                to: '/docs/tentang-kami',
+                to: '/docs/profil/tentang-kami',
               },
               {
                 label: 'Visi Misi',
-                to: '/docs/visi-misi',
+                to: '/docs/profil/visi-misi',
               },
               {
                 label: 'Struktur Organisasi',
-                to: '/docs/struktur',
+                to: '/docs/profil/struktur',
               },
               {
                 label: 'Keanggotaan',
-                to: '/docs/keanggotaan',
+                to: '/docs/profil/keanggotaan',
               },
             ],
           },

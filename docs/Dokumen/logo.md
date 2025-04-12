@@ -14,7 +14,7 @@ title: Logo Resmi ISPI Nasional
 #### 1. Versi Standar
 - **Format**: PNG (Transparan)
 - **Unduh**:  
-  [Logo Primer](/img/logo-ispi.png) | [Logo Monokrom](/img/logo-ispi-monochrome.png)
+  [Logo Primer](/img/logo-ispi.png) |[Logo Monokrom](/img/logo-ispi-monochrome.png)
 
 #### 2. Aturan Penggunaan
 - **Warna Latar**: 

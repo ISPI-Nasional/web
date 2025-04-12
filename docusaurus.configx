@@ -128,19 +128,19 @@ plugins: [
             items: [
               {
                 label: 'Tentang Kami',
-                to: '/docs/tentang-kami',
+                to: '/docs/profil/tentang-kami',
               },
               {
                 label: 'Visi Misi',
-                to: '/docs/visi-misi',
+                to: '/docs/profil/visi-misi',
               },
               {
                 label: 'Struktur Organisasi',
-                to: '/docs/struktur',
+                to: '/docs/profil/struktur',
               },
               {
                 label: 'Keanggotaan',
-                to: '/docs/keanggotaan',
+                to: '/docs/profil/keanggotaan',
               },
             ],
           },

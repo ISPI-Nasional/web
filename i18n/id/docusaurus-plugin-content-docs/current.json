@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Profil Asosiasi": {
+    "message": "Profil Asosiasi",
+    "description": "The label for category Profil Asosiasi in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Profil Asosiasi.link.generated-index.description": {
+    "message": "Informasi singkat tentang organisasi, visi, misi, dan struktur kepengurusan",
+    "description": "The generated-index page description for category Profil Asosiasi in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dokumen": {
+    "message": "Dokumen",
+    "description": "The label for category Dokumen in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dokumen.link.generated-index.description": {
+    "message": "Dokumen terkait organisasi",
+    "description": "The generated-index page description for category Dokumen in sidebar tutorialSidebar"
+  }
+}

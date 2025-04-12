@@ -19,4 +19,4 @@ sidebar_position: 4
 | Ketua Wilayah       | Pimpinan tingkat provinsi          |
 | Dewan Pengurus Wilayah | Pelaksana kebijakan wilayah     |
 
-Detail: [BAB VI AD](/docs/dokumen/ad#bab-vi).
+Detail: [BAB VI AD](/docs/Dokumen/ad#bagian-kesatu-struktur-organisasi).

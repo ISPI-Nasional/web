@@ -18,4 +18,4 @@ sidebar_position: 5
 - Mematuhi AD dan ART.
 - Menjaga integritas organisasi.
 
-Info lengkap: [BAB V AD](/docs/dokumen/ad#bab-v).
+Info lengkap: [BAB V AD](/docs/Dokumen/ad#bab-v-keanggotaan).
