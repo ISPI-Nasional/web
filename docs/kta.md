@@ -1,4 +1,4 @@
-# Pemantauan Status KTA ISPI Nasional
+# KTA ISPI Nasional
 
 ![Cloudflare Zero Trust](https://img.shields.io/badge/Cloudflare_Zero_Trust-Aktif-biru) 
 ![Self-Hosted](https://img.shields.io/badge/Hosting-Self_Hosted-oranye)
