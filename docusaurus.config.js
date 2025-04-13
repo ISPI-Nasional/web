@@ -119,6 +119,10 @@ const config = {
                 label: 'Keanggotaan',
                 to: '/docs/profil/keanggotaan',
               },
+              {
+                label: 'KTA',
+                to: 'kta.ispinasional.or.id',
+              },
             ],
           },
           {
@@ -131,6 +135,10 @@ const config = {
               {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/share/g/1A7yYqND8Z/',
+              },
+              {
+                label: 'Status server KTA',
+                href: '/docs/kta',
               },
             ],
           },
