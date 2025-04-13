@@ -4,7 +4,7 @@ Selamat datang di repository resmi **Website ISPI Nasional**.
 Website ini dibangun menggunakan [Docusaurus](https://docusaurus.io/) untuk menyajikan informasi organisasi, dokumentasi, serta publikasi ISPI Nasional secara modern dan mudah diakses.
 
 🔗 Live Site: [https://ispinasional.or.id](https://ispinasional.or.id)  
-📧 Email: [dpp.ispinasional@gmail.com](mailto:dpp.ispinasional@gmail.com)
+📧 Email: [dpp.ispi@gmail.com](mailto:dpp.ispi@gmail.com)
 
 ---
 
@@ -41,7 +41,7 @@ Silakan fork repo ini, buat perubahan, dan kirimkan pull request!
 ## 📢 Kontak
 
 Jika ada pertanyaan, saran, atau ingin terlibat lebih jauh, hubungi kami melalui:  
-📧 **dpp.ispinasional@gmail.com**
+📧 **dpp.ispi@gmail.com**
 
 ---
 
