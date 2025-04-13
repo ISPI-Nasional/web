@@ -1,41 +1,54 @@
-# Website
+# 🌐 Website Resmi ISPI Nasional
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Selamat datang di repository resmi **Website ISPI Nasional**.  
+Website ini dibangun menggunakan [Docusaurus](https://docusaurus.io/) untuk menyajikan informasi organisasi, dokumentasi, serta publikasi ISPI Nasional secara modern dan mudah diakses.
 
-### Installation
+🔗 Live Site: [https://ispinasional.or.id](https://ispinasional.or.id)  
+📧 Email: [dpp.ispinasional@gmail.com](mailto:dpp.ispinasional@gmail.com)
 
-```
-$ yarn
-```
+---
 
-### Local Development
+## 🏗️ Teknologi yang Digunakan
 
-```
-$ yarn start
-```
+- [Docusaurus 2](https://docusaurus.io/)
+- Markdown
+- GitHub Pages / Cloudflare Pages (untuk deployment)
+- GitHub Actions (CI/CD)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+---
 
-### Build
+## 🤝 Kontribusi
 
-```
-$ yarn build
-```
+Kami terbuka bagi siapa saja yang ingin membantu pengembangan dan kemajuan ISPI Nasional melalui platform ini.  
+Silakan fork repo ini, buat perubahan, dan kirimkan pull request!
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+**Cara berkontribusi:**
 
-### Deployment
+1. Fork repo ini
+2. Clone ke komputer lokal
+3. Buat branch baru untuk fitur/penyesuaian Anda
+4. Lakukan perubahan
+5. Commit dan push ke branch Anda
+6. Ajukan Pull Request ke `main`
 
-Using SSH:
+---
 
-```
-$ USE_SSH=true yarn deploy
-```
+## 🧭 Struktur Folder
 
-Not using SSH:
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+---
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## 📢 Kontak
+
+Jika ada pertanyaan, saran, atau ingin terlibat lebih jauh, hubungi kami melalui:  
+📧 **dpp.ispinasional@gmail.com**
+
+---
+
+## ❤️ Dukungan
+
+Dengan berkontribusi, Anda ikut memajukan **Ikatan Supervisi Nasional** sebagai wadah profesional yang ikhlas mengabdi dan profesional berintegritas.
+
+---
+
+> “Ikhlas Mengabdi, Profesional Berintegritas”
