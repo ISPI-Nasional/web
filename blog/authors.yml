@@ -1,0 +1,9 @@
+dpp:
+  name: DPP ISPI Nasional
+  title: Dewan Pengurus Pusat ISPI Nasional
+  url: https://ispinasional.or.id
+  image_url: https://ispinasional.or.id/img/logo-ispi.svg
+  page: true
+  socials:
+    github: ISPI-Nasional
+    email: dpp.ispi@gmail.com
