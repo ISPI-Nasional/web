@@ -9,7 +9,7 @@ Status real-time portal keanggotaan KTA:
 [![Status KTA](https://img.shields.io/website?down_color=merah&down_message=OFFLINE&label=Portal%20KTA&up_color=hijau&up_message=ONLINE&url=https%3A%2F%2Fkta.ispinasional.or.id)](https://kta.ispinasional.or.id)
 
 ## 🛠️ Konfigurasi Teknis
-- **Hosting**: Self-hosted di rumah
+- **Hosting**: Self-hosted
 - **Tunneling**: Cloudflare Zero Trust
 - **Terakhir Diperiksa**: <span id="last-checked">Memuat...</span>
 
