@@ -121,7 +121,7 @@ const config = {
               },
               {
                 label: 'KTA',
-                to: 'kta.ispinasional.or.id',
+                to: '/docs/kta',
               },
             ],
           },
@@ -137,8 +137,8 @@ const config = {
                 href: 'https://www.facebook.com/share/g/1A7yYqND8Z/',
               },
               {
-                label: 'Status server KTA',
-                href: '/docs/kta',
+                label: 'KTA',
+                href: 'https://kta.ispinasional.or.id',
               },
             ],
           },
