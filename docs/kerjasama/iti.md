@@ -2,7 +2,7 @@
 id: iti
 title: Kerjasama dengan Institut Teknologi Indonesia (ITI)
 description: Program RPL Teknik Sipil S1 bersama ITI
-sidebar_label: ITI
+sidebar_label: Institut Teknologi Indonesia
 ---
 
 ## 🤝 Kerjasama ISPI Nasional & ITI
@@ -32,7 +32,7 @@ Website resmi ITI: [https://iti.ac.id](https://iti.ac.id)
 
 Untuk informasi lebih lanjut dan konsultasi mengenai program ini, silakan hubungi:
 
-- **Pak Ilham**: [Link WhatsApp](https://wa.me/6281234567890) *(contoh link, sesuaikan dengan nomor sebenarnya)*
+- **Pak Ilham**: [Link WhatsApp](https://wa.me/+6281333783896) 
 
 ---
 
