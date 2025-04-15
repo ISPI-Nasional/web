@@ -152,6 +152,10 @@ const config = {
             title: 'Informasi Lain',
             items: [
               {
+                label: 'Kerjasama',
+                to: '/docs/kerjasama',
+              },
+              {
                 label: 'Blog',
                 to: '/blog',
               },
