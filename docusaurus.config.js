@@ -153,7 +153,7 @@ const config = {
             items: [
               {
                 label: 'Kerjasama',
-                to: '/docs/kerjasama',
+                to: '/docs/category/kerjasama',
               },
               {
                 label: 'Blog',
