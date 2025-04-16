@@ -97,8 +97,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/ISPI-Nasional/',
-            label: 'GitHub',
+            href: 'https://kta.ispinasional.or.id',
+            label: 'KTA',
             position: 'right',
           },
         ],
@@ -147,8 +147,8 @@ const config = {
                 href: 'https://www.facebook.com/share/g/1A7yYqND8Z/',
               },
               {
-                label: 'KTA',
-                href: 'https://kta.ispinasional.or.id',
+                label: 'Github',
+                href: 'https://github.com/ISPI-Nasional/',
               },
             ],
           },
