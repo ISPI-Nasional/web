@@ -135,6 +135,10 @@ const config = {
             title: 'Komunitas',
             items: [
               {
+                label: 'Kerjasama',
+                to: '/docs/category/kerjasama',
+              },
+              {
                 label: 'Linkedin',
                 href: 'https://www.linkedin.com/groups/14270833/',
               },
@@ -152,10 +156,6 @@ const config = {
             title: 'Informasi Lain',
             items: [
               {
-                label: 'Kerjasama',
-                to: '/docs/category/kerjasama',
-              },
-              {
                 label: 'Blog',
                 to: '/blog',
               },
@@ -166,6 +166,10 @@ const config = {
               {
                 label: 'Kontak',
                 href: '/docs/kontak',
+              },
+              {
+                label: 'Sitemap',
+                to: '/sitemap',
               },
             ],
           },
