@@ -10,6 +10,9 @@ ISPI Nasional menjalin kerja sama dengan **Universitas Islam Sultan Agung (UNISS
 
 Kerja sama ini menjadi bagian dari upaya ISPI untuk memberikan kesempatan bagi para profesional supervisi dan anggota ISPI untuk melanjutkan pendidikan ke jenjang pascasarjana baik secara **online maupun offline**.
 
+![Magister Teknik Sipil Unissula](/static/img/mts-unissula.jpg)
+<!--#![This is an alt text.](/image/sample.webp "This is a sample image.") -->
+<!-- TODO: Tambahkan penjelasan di bagian ini nanti -->
 ---
 
 ## 🎯 Tujuan Kerja Sama
@@ -40,7 +43,11 @@ Kerja sama ini menjadi bagian dari upaya ISPI untuk memberikan kesempatan bagi p
 
 ## 📞 Informasi & Pendaftaran
 
-Untuk informasi lebih lanjut mengenai program ini, silakan kunjungi website resmi UNISSULA atau hubungi pengurus DPP ISPI melalui email:
+Untuk informasi lebih lanjut mengenai program ini, silakan kunjungi website resmi UNISSULA atau hubungi pengurus DPP ISPI :
+
+- **Pak Ilham**: [Link WhatsApp](https://wa.me/+6281333783896) 
+
+ atau
 
 📧 **Email DPP ISPI**: [dpp.ispi@gmail.com](mailto:dpp.ispi@gmail.com)  
 🌐 **Website UNISSULA**: [https://unissula.ac.id](https://unissula.ac.id)
