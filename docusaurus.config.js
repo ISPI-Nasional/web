@@ -112,23 +112,23 @@ const config = {
             items: [
               {
                 label: 'Tentang Kami',
-                to: '/docs/profil/tentang-kami',
+                to: '/profil/tentang-kami',
               },
               {
                 label: 'Visi Misi',
-                to: '/docs/profil/visi-misi',
+                to: '/profil/visi-misi',
               },
               {
                 label: 'Struktur Organisasi',
-                to: '/docs/profil/struktur',
+                to: '/profil/struktur',
               },
               {
                 label: 'Keanggotaan',
-                to: '/docs/profil/keanggotaan',
+                to: '/profil/keanggotaan',
               },
               {
                 label: 'KTA',
-                to: '/docs/kta',
+                to: '/kta',
               },
             ],
           },
@@ -145,7 +145,7 @@ const config = {
               },
               {
                 label: 'KTA',
-                href: 'https://kta.ispinasional.or.id',
+                href: 'https://ispinasional.or.id',
               },
             ],
           },
@@ -158,7 +158,7 @@ const config = {
               },
               {
                 label: 'Dokumen',
-                href: '/docs/category/dokumen',
+                href: '/category/dokumen',
               },
               {
                 label: 'Kontak',
