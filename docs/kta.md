@@ -6,7 +6,7 @@
 Status real-time portal keanggotaan KTA:
 
 ## 🌐 Status Saat Ini
-[![Status KTA](https://img.shields.io/website?down_color=merah&down_message=OFFLINE&label=Portal%20KTA&up_color=hijau&up_message=ONLINE&url=https%3A%2F%2Fkta.ispinasional.or.id)](https://kta.ispinasional.or.id)
+[![Status KTA](https://img.shields.io/website?down_color=merah&down_message=OFFLINE&label=Portal%20KTA&up_color=hijau&up_message=ONLINE&url=https%3A%2F%2Fkta.ispinasional.or.id)](https://ispinasional.or.id)
 
 ## 🛠️ Konfigurasi Teknis
 - **Hosting**: Self-hosted
@@ -15,4 +15,4 @@ Status real-time portal keanggotaan KTA:
 
 ## 🔍 Pengecekan Manual
 ```bash
-curl -I https://kta.ispinasional.or.id
+curl -I https://ispinasional.or.id
