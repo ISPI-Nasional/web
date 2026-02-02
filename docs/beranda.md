@@ -31,11 +31,11 @@ ISPI Nasional adalah wadah bagi tenaga ahli dan terampil di bidang supervisi, di
 ---
 
 ## Jelajahi ISPI Nasional
-- **[Tentang Kami](/docs/profil/tentang-kami)**: Pelajari sejarah dan tujuan kami.  
-- **[Visi & Misi](/docs/profil/visi-misi)**: Arah dan komitmen kami untuk masa depan.  
-- **[Struktur Organisasi](/docs/profil/struktur)**: Kenali tim kepemimpinan kami.  
-- **[Keanggotaan](/docs/profil/keanggotaan)**: Bergabunglah bersama kami!  
-- **[Kontak](/docs/kontak)**: Hubungi kami untuk informasi lebih lanjut.  
+- **[Tentang Kami](/profil/tentang-kami)**: Pelajari sejarah dan tujuan kami.  
+- **[Visi & Misi](/profil/visi-misi)**: Arah dan komitmen kami untuk masa depan.  
+- **[Struktur Organisasi](/profil/struktur)**: Kenali tim kepemimpinan kami.  
+- **[Keanggotaan](/profil/keanggotaan)**: Bergabunglah bersama kami!  
+- **[Kontak](/kontak)**: Hubungi kami untuk informasi lebih lanjut.  
 
 ---
 
