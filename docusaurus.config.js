@@ -162,7 +162,7 @@ const config = {
               },
               {
                 label: 'Kontak',
-                href: '/docs/kontak',
+                href: '/kontak',
               },
             ],
           },
