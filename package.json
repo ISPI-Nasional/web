@@ -5,8 +5,9 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "npm run generate-file-list && docusaurus build",
     "swizzle": "docusaurus swizzle",
+    "generate-file-list": "node scripts/generateFileList.js",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",

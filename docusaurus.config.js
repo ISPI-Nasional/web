@@ -97,6 +97,7 @@ const config = {
             label: 'Beranda',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/documents', label: 'Dokumen', position: 'left' },
           {
             href: 'https://github.com/ISPI-Nasional/',
             label: 'GitHub',

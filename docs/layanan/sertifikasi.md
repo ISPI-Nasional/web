@@ -5,18 +5,18 @@ title: Sertifikasi
 
 # Program Sertifikasi ISPI
 
-Sertifikasi kompetensi untuk meningkatkan profesionalisme surveyor dan pengawas konstruksi.
+Sertifikasi kompetensi untuk meningkatkan profesionalisme pengawas konstruksi.
 
 ## Jenis Sertifikasi
 
-### 1. Sertifikasi Surveyor Konstruksi
+### 1. Sertifikasi Konstruksi
 
-Sertifikasi untuk surveyor yang bekerja di bidang pengukuran dan pemetaan konstruksi.
+Sertifikasi untuk yang bekerja di bidang pengukuran dan pemetaan konstruksi.
 
 **Tingkatan:**
-- 📊 **Level 1** - Surveyor Muda
-- 📈 **Level 2** - Surveyor Madya
-- 🎯 **Level 3** - Surveyor Ahli
+- 📊 **Level 1** -  Muda
+- 📈 **Level 2** -  Madya
+- 🎯 **Level 3** -  Ahli
 
 ### 2. Sertifikasi Pengawas Konstruksi
 
