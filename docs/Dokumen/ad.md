@@ -50,13 +50,13 @@ b. Meningkatkan kapasitas, kualitas, profesionalisme, integritas dan produktivit
 
 ---
 
-## BAB II: Dasar, Azas, dan Sifat
+## BAB II: Dasar, Asas, dan Sifat
 
 ### Bagian Kesatu: Dasar
 **Pasal 5**  
 ISPI NASIONAL berdasarkan **Pancasila** dan **Undang-Undang Dasar Negara Republik Indonesia Tahun 1945**.
 
-### Bagian Kedua: Azas
+### Bagian Kedua: Asas
 **Pasal 6**  
 ISPI NASIONAL berasaskan **profesionalitas, integritas, etika, kredibel, bermoral, kooperatif dan independen**.
 
@@ -155,7 +155,7 @@ b. Wilayah untuk tingkat Provinsi.
 2. Dewan Pengurus Wilayah merupakan pimpinan tertinggi yang memimpin ISPI NASIONAL di tingkat provinsi yang melaksanakan kebijakan Dewan Pengurus Pusat.  
 3. Dewan Pengurus Wilayah dipimpin oleh Ketua yang dipilih dan ditetapkan dalam Musyawarah Wilayah.  
 4. Dewan Pengurus Wilayah terdiri atas Ketua, Wakil Ketua, Sekretaris, Wakil Sekretaris, Bendahara, Wakil Bendahara, Ketua Bidang dan Anggota Bidang.  
-5. Wakil Ketua, Sekretaris, Wakil Sekretaris, Bendahara, Wakil Bendahara, Ketua Bidang dan Anggota Bidang sebagaimana dimaksud pada ayat (5) dipilih dan diangkat oleh Ketua Wilayah dan dibantu oleh tim formatur.  
+5. Wakil Ketua, Sekretaris, Wakil Sekretaris, Bendahara, Wakil Bendahara, Ketua Bidang dan Anggota Bidang sebagaimana dimaksud pada ayat (4) dipilih dan diangkat oleh Ketua Wilayah dan dibantu oleh tim formatur.  
 6. Ketua Wilayah merekomendasikan personalia Dewan Pengurus Wilayah untuk mendapatkan pengesahan dari Dewan Pengurus Pusat.  
 7. Dewan Pengurus Wilayah dapat mengangkat Dewan Pengawas Wilayah.  
 8. Ketentuan mengenai Dewan Pengawas Wilayah diatur dalam Anggaran Rumah Tangga.
@@ -245,7 +245,7 @@ d. Rapat Pimpinan Wilayah.
 
 ---
 
-## BAB IX: Lambang, Bendera, Atribut, Hymne, dan Mars
+## BAB IX: Lambang, Bendera, dan Atribut
 
 ### Bagian Kesatu: Lambang
 **Pasal 29**  
@@ -264,10 +264,6 @@ Lambang ISPI NASIONAL sebagai berikut:
 **Pasal 31**  
 1. Atribut merupakan perlengkapan sebagai identitas ISPI NASIONAL yang antara lain berupa bendera, kartu tanda anggota, pin, pakaian seragam, topi, hymne, mars dan lain-lain.  
 2. Ketentuan lebih lanjut mengenai penggunaan atribut ISPI NASIONAL diatur dalam Anggaran Rumah Tangga.
-
-### Bagian Keempat: Hymne dan Mars
-**Pasal 32**  
-(Tidak ada isi spesifik dalam dokumen, diatur dalam ART.)
 
 ---
 

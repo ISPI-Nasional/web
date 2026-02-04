@@ -18,4 +18,4 @@ Membina tenaga ahli dan terampil yang:
 - Profesional, kreatif, dan inovatif.  
 - Berprestasi di tingkat nasional dan internasional.
 
-Lihat dokumen lengkap di [Anggaran Dasar](/docs/Dokumen/ad).
+Lihat dokumen lengkap di [Anggaran Dasar](/Dokumen/ad).
