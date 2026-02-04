@@ -81,8 +81,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+  image: 'img/docusaurus-social-card.jpg',
+
+  algolia: {
+    appId: 'MWFSCNVWUI',
+    apiKey: 'd0ce466166dd034fc6ff987a7d51fc87',
+    indexName: 'ispinasional-or',
+    contextualSearch: true,
+  },
+  
       navbar: {
         title: 'ISPI Nasional',
         logo: {
@@ -175,19 +182,4 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-};
-
-export default config;
-
-export default {
-  themeConfig: {
-    algolia: {
-      appId: 'MWFSCNVWUI',
-      apiKey: 'd0ce466166dd034fc6ff987a7d51fc87',
-      indexName: 'ispinasional-or',
-
-      // optional tapi recommended
-      contextualSearch: true,
-    },
-  },
 };
