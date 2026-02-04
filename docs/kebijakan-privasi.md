@@ -8,7 +8,7 @@ title: Kebijakan Privasi
 
 ## Pendahuluan
 
-Ikatan Surveyor Pengawas Indonesia (ISPI) Nasional ("kami", "ISPI") berkomitmen untuk melindungi privasi dan keamanan data pribadi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda.
+Ikatan Supervisi Nasional berkomitmen untuk melindungi privasi dan keamanan data pribadi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda.
 
 ## Informasi yang Kami Kumpulkan
 
@@ -88,7 +88,7 @@ Kami TIDAK AKAN menjual atau menyewakan data pribadi Anda. Namun, data dapat dib
    - Email service (untuk komunikasi)
 
 3. **Lembaga Resmi**
-   - Kementerian PUPR (untuk data anggota surveyor)
+   - Kementerian PUPR (untuk data anggota)
    - Lembaga Sertifikasi Profesi (LSP)
    - Hanya jika diwajibkan oleh hukum
 

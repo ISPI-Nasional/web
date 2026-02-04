@@ -5,12 +5,12 @@ title: Keanggotaan ISPI
 
 # Keanggotaan ISPI Nasional
 
-Selamat datang di halaman informasi keanggotaan Ikatan Surveyor Pengawas Indonesia (ISPI) Nasional.
+Selamat datang di halaman informasi keanggotaan Ikatan Supervisi Nasional.
 
 ## Jenis Keanggotaan
 
 ### 1. Anggota Biasa
-- Memiliki kualifikasi sebagai surveyor pengawas konstruksi
+- Memiliki kualifikasi sebagai pengawas konstruksi
 - Aktif dalam kegiatan ISPI
 - Membayar iuran secara rutin
 
@@ -55,8 +55,8 @@ Untuk menjadi anggota ISPI Nasional, Anda perlu memenuhi:
 
 | Item | Nominal |
 |------|---------|
-| Uang Pendaftaran | Rp. 500.000 |
-| Iuran Tahunan | Rp. 300.000 |
+| Uang Pendaftaran | Rp. 100.000 |
+| Iuran Tahunan | Rp. 100.000 |
 
 > **Catatan**: Biaya dapat berubah sewaktu-waktu sesuai keputusan pengurus.
 
@@ -64,5 +64,5 @@ Untuk menjadi anggota ISPI Nasional, Anda perlu memenuhi:
 
 Untuk informasi lebih lanjut:
 - 📧 Email: sekretariat@ispinasional.or.id
-- 📱 WhatsApp: +62 XXX-XXXX-XXXX
+- 📱 WhatsApp: 0865 2615 3352 / 0895 3041 7666
 - 🌐 Website: https://ispinasional.or.id

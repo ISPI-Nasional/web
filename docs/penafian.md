@@ -8,7 +8,7 @@ title: Penafian
 
 ## Penafian Umum
 
-Website **ispinasional.or.id** dan **docs.ispinasional.or.id** (selanjutnya disebut "Website") dikelola oleh Ikatan Surveyor Pengawas Indonesia (ISPI) Nasional. Dengan mengakses dan menggunakan Website ini, Anda menyetujui penafian berikut.
+Website **ispinasional.or.id** dan **docs.ispinasional.or.id** (selanjutnya disebut "Website") dikelola oleh Ikatan Supervisi Nasional. Dengan mengakses dan menggunakan Website ini, Anda menyetujui penafian berikut.
 
 ## Informasi Website
 

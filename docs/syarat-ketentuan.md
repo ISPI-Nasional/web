@@ -15,7 +15,7 @@ Selamat datang di website **ispinasional.or.id** dan **docs.ispinasional.or.id**
 Dalam Syarat dan Ketentuan ini:
 
 - **"Website"** = ispinasional.or.id dan docs.ispinasional.or.id
-- **"ISPI"** = Ikatan Surveyor Pengawas Indonesia Nasional
+- **"ISPI"** = Ikatan Supervisi Nasional
 - **"Kami/Kita"** = ISPI Nasional
 - **"Anda/Pengguna"** = Pengunjung atau anggota yang menggunakan Website
 - **"Anggota"** = Pengguna terdaftar yang telah membayar iuran

@@ -178,3 +178,16 @@ const config = {
 };
 
 export default config;
+
+export default {
+  themeConfig: {
+    algolia: {
+      appId: 'MWFSCNVWUI',
+      apiKey: 'd0ce466166dd034fc6ff987a7d51fc87',
+      indexName: 'ispinasional-or',
+
+      // optional tapi recommended
+      contextualSearch: true,
+    },
+  },
+};
