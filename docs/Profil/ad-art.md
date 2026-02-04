@@ -11,7 +11,7 @@ title: AD/ART ISPI Nasional
 
 **Pasal 1**
 
-1. Organisasi ini bernama **Ikatan Surveyor Pengawas Indonesia** yang disingkat **ISPI**.
+1. Organisasi ini bernama **Ikatan Supervisi Nasional** yang disingkat **ISPI Nasional**.
 2. ISPI didirikan untuk waktu yang tidak ditentukan lamanya.
 3. ISPI berkedudukan di Ibukota Negara Republik Indonesia.
 
@@ -47,7 +47,7 @@ Untuk mencapai tujuannya, ISPI melakukan kegiatan:
 **Pasal 5**
 
 Keanggotaan ISPI terdiri dari:
-1. **Anggota Biasa** - Memiliki kualifikasi surveyor/pengawas konstruksi
+1. **Anggota Biasa** - Memiliki kualifikasi pengawas konstruksi
 2. **Anggota Luar Biasa** - Profesional bidang terkait
 3. **Anggota Kehormatan** - Tokoh berjasa bagi ISPI
 
