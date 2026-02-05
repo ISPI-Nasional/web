@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+title: Downloads
 ---
 
 # Downloads
@@ -49,6 +50,109 @@ Berikut adalah daftar dokumen yang dapat diunduh:
 - [~$. Lampiran PO.003-Pedoman Advokasi & Pembelaan Anggota.docx](/Baru/~%24.%20Lampiran%20PO.003-Pedoman%20Advokasi%20%26%20Pembelaan%20Anggota.docx)
 - [~$. Pakta Integritas.docx](/Baru/~%24.%20Pakta%20Integritas.docx)
 - [~$. PO. 001- Iuran Anggota.docx](/Baru/~%24.%20PO.%20001-%20Iuran%20Anggota.docx)
+
+## Akta Notaris ISPI Nasional
+
+- [1.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/1.pdf)
+- [10.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/10.pdf)
+- [11.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/11.pdf)
+- [12.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/12.pdf)
+- [13.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/13.pdf)
+- [14.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/14.pdf)
+- [15.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/15.pdf)
+- [16.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/16.pdf)
+- [17.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/17.pdf)
+- [18.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/18.pdf)
+- [19.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/19.pdf)
+- [2.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/2.pdf)
+- [20.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/20.pdf)
+- [21.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/21.pdf)
+- [22.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/22.pdf)
+- [3.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/3.pdf)
+- [4.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/4.pdf)
+- [5.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/5.pdf)
+- [6.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/6.pdf)
+- [7.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/7.pdf)
+- [8.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/8.pdf)
+- [9.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/9.pdf)
+- [AHU 1.PDF](/Baru/Akta%20Notaris%20ISPI%20Nasional/AHU%201.PDF)
+- [AHU 2.PDF](/Baru/Akta%20Notaris%20ISPI%20Nasional/AHU%202.PDF)
+- [Caver Akta.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/Caver%20Akta.pdf)
+
+## OpenSans
+
+- [OpenSans-Bold.ttf](/Baru/OpenSans/OpenSans-Bold.ttf)
+- [OpenSans-BoldItalic.ttf](/Baru/OpenSans/OpenSans-BoldItalic.ttf)
+- [OpenSans-ExtraBold.ttf](/Baru/OpenSans/OpenSans-ExtraBold.ttf)
+- [OpenSans-ExtraBoldItalic.ttf](/Baru/OpenSans/OpenSans-ExtraBoldItalic.ttf)
+- [OpenSans-Italic.ttf](/Baru/OpenSans/OpenSans-Italic.ttf)
+- [OpenSans-Light.ttf](/Baru/OpenSans/OpenSans-Light.ttf)
+- [OpenSans-LightItalic.ttf](/Baru/OpenSans/OpenSans-LightItalic.ttf)
+- [OpenSans-Regular.otf](/Baru/OpenSans/OpenSans-Regular.otf)
+- [OpenSans-Regular.ttf](/Baru/OpenSans/OpenSans-Regular.ttf)
+- [OpenSans-SemiBold.ttf](/Baru/OpenSans/OpenSans-SemiBold.ttf)
+- [OpenSans-SemiBoldItalic.ttf](/Baru/OpenSans/OpenSans-SemiBoldItalic.ttf)
+
+## pdf
+
+- [03. PO. 001- Iuran Anggota.pdf](/Baru/pdf/03.%20PO.%20001-%20Iuran%20Anggota.pdf)
+- [04. Lampiran PO. 001- Iuran Anggota.pdf](/Baru/pdf/04.%20Lampiran%20PO.%20001-%20Iuran%20Anggota.pdf)
+- [05. PO.002- Pedoman Pengelolaan & Penggunaan Kekayaan.pdf](/Baru/pdf/05.%20PO.002-%20Pedoman%20Pengelolaan%20%26%20Penggunaan%20Kekayaan.pdf)
+- [06. Lampiran PO.002- Pedoman Pengelolaan & Penggunaan Kekayaan.pdf](/Baru/pdf/06.%20Lampiran%20PO.002-%20Pedoman%20Pengelolaan%20%26%20Penggunaan%20Kekayaan.pdf)
+- [07. PO.003-Pedoman Advokasi & Pembelaan Anggota.pdf](/Baru/pdf/07.%20PO.003-Pedoman%20Advokasi%20%26%20Pembelaan%20Anggota.pdf)
+- [08. Lampiran PO.003-Pedoman Advokasi & Pembelaan Anggota.pdf](/Baru/pdf/08.%20Lampiran%20PO.003-Pedoman%20Advokasi%20%26%20Pembelaan%20Anggota.pdf)
+- [09. PO.004 - Tugas DPP.pdf](/Baru/pdf/09.%20PO.004%20-%20Tugas%20DPP.pdf)
+- [10. Lampiran PO.004 - Tugas DPP.pdf](/Baru/pdf/10.%20Lampiran%20PO.004%20-%20Tugas%20DPP.pdf)
+- [11. PO 005-Peraturan Tata Cara Pembentukan DPW.pdf](/Baru/pdf/11.%20PO%20005-Peraturan%20Tata%20Cara%20Pembentukan%20DPW.pdf)
+- [12. Lampiran PO 005-Peraturan Tata Cara Pembentukan DPW.pdf](/Baru/pdf/12.%20Lampiran%20PO%20005-Peraturan%20Tata%20Cara%20Pembentukan%20DPW.pdf)
+- [13. PO 006-Peraturan Tambahan.pdf](/Baru/pdf/13.%20PO%20006-Peraturan%20Tambahan.pdf)
+- [14. Lampiran PO 006-Peraturan Tambahan.pdf](/Baru/pdf/14.%20Lampiran%20PO%20006-Peraturan%20Tambahan.pdf)
+- [AD ART Ikatan Supervisi Nasional.pdf](/Baru/pdf/AD%20ART%20Ikatan%20Supervisi%20Nasional.pdf)
+- [struktur organisasi dpp ispi nasional.pdf](/Baru/pdf/struktur%20organisasi%20dpp%20ispi%20nasional.pdf)
+- [Struktur organisasi.pdf](/Baru/pdf/Struktur%20organisasi.pdf)
+- [Struktur organisasi.svg](/Baru/pdf/Struktur%20organisasi.svg)
+
+## surat keluar
+
+- [001. SK. DPP utk Pengesahan DPW Jateng.docx](/Baru/surat%20keluar/001.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Jateng.docx)
+- [001. SK. DPP utk Pengesahan DPW Jateng.pdf](/Baru/surat%20keluar/001.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Jateng.pdf)
+- [002. SK. DPP utk Pengesahan DPW Sulsel.pdf](/Baru/surat%20keluar/002.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Sulsel.pdf)
+- [003. SK. DPP utk Pengesahan DPW Kaltim.pdf](/Baru/surat%20keluar/003.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Kaltim.pdf)
+- [01 Blanko kop ISPI Nasional - Copy.docx](/Baru/surat%20keluar/01%20Blanko%20kop%20ISPI%20Nasional%20-%20Copy.docx)
+- [01 Blanko kop ISPI Nasional.docx](/Baru/surat%20keluar/01%20Blanko%20kop%20ISPI%20Nasional.docx)
+- [BERITA ACARA SILATDA ISPI NASIONAL.pdf](/Baru/surat%20keluar/BERITA%20ACARA%20SILATDA%20ISPI%20NASIONAL.pdf)
+- [grayscale logo watermark.png](/Baru/surat%20keluar/grayscale%20logo%20watermark.png)
+- [Salinan Kode Etik ISPI NASIONAL.pdf](/Baru/surat%20keluar/Salinan%20Kode%20Etik%20ISPI%20NASIONAL.pdf)
+- [SK Wilayah Lampung Periode 2021 - 2024.pdf](/Baru/surat%20keluar/SK%20Wilayah%20Lampung%20Periode%202021%20-%202024.pdf)
+- [SURAT KELUAR - 01, Pembentukan DPW.docx](/Baru/surat%20keluar/SURAT%20KELUAR%20-%2001%2C%20Pembentukan%20DPW.docx)
+- [SURAT KELUAR - 02, Pelantikan DPW.docx](/Baru/surat%20keluar/SURAT%20KELUAR%20-%2002%2C%20Pelantikan%20DPW.docx)
+- [SURAT KELUAR - 03, Zoom Meeting Agenda Pelantikan DPW.docx](/Baru/surat%20keluar/SURAT%20KELUAR%20-%2003%2C%20Zoom%20Meeting%20Agenda%20Pelantikan%20DPW.docx)
+- [SURAT KELUAR - 03, Zoom Meeting Agenda Pelantikan DPW.pdf](/Baru/surat%20keluar/SURAT%20KELUAR%20-%2003%2C%20Zoom%20Meeting%20Agenda%20Pelantikan%20DPW.pdf)
+- [SURAT KELUAR - 04, Zoom Meeting Pelantikan DPW  JATENG.docx](/Baru/surat%20keluar/SURAT%20KELUAR%20-%2004%2C%20Zoom%20Meeting%20Pelantikan%20DPW%20%20JATENG.docx)
+- [SURAT KELUAR - 04, Zoom Meeting Pelantikan DPW  JATENG.pdf](/Baru/surat%20keluar/SURAT%20KELUAR%20-%2004%2C%20Zoom%20Meeting%20Pelantikan%20DPW%20%20JATENG.pdf)
+- [SURAT KELUAR - 05,Permohonan Audiensi ke LPJK.docx](/Baru/surat%20keluar/SURAT%20KELUAR%20-%2005%2CPermohonan%20Audiensi%20ke%20LPJK.docx)
+- [SURAT KELUAR - 05,Permohonan Audiensi ke LPJK.pdf](/Baru/surat%20keluar/SURAT%20KELUAR%20-%2005%2CPermohonan%20Audiensi%20ke%20LPJK.pdf)
+- [SURAT KELUAR - 06,Kartu Tanda Anggota.docx](/Baru/surat%20keluar/SURAT%20KELUAR%20-%2006%2CKartu%20Tanda%20Anggota.docx)
+- [Surat keterangan pengalaman organisasi.docx](/Baru/surat%20keluar/Surat%20keterangan%20pengalaman%20organisasi.docx)
+- [Surat keterangan pengalaman organisasi.pdf](/Baru/surat%20keluar/Surat%20keterangan%20pengalaman%20organisasi.pdf)
+- [Susunan acara dpw.docx](/Baru/surat%20keluar/Susunan%20acara%20dpw.docx)
+- [Susunan acara dpw.pdf](/Baru/surat%20keluar/Susunan%20acara%20dpw.pdf)
+- [Susunan Acara Pelantikan.pdf](/Baru/surat%20keluar/Susunan%20Acara%20Pelantikan.pdf)
+- [~$RAT KELUAR - 02, Pelantikan DPW.docx](/Baru/surat%20keluar/~%24RAT%20KELUAR%20-%2002%2C%20Pelantikan%20DPW.docx)
+
+## Template
+
+- [Berita Acara.docx](/Baru/Template/Berita%20Acara.docx)
+- [Daftar Hadir.docx](/Baru/Template/Daftar%20Hadir.docx)
+- [Notulen Rapat.docx](/Baru/Template/Notulen%20Rapat.docx)
+
+## Template/BA Jateng
+
+- [BA Kepengurusan DPW ISPI Nasional-Jawa Tengah.docx](/Baru/Template/BA%20Jateng/BA%20Kepengurusan%20DPW%20ISPI%20Nasional-Jawa%20Tengah.docx)
+- [BA MUSWIL DPW ISPI Nasional-Jawa Tengah.docx](/Baru/Template/BA%20Jateng/BA%20MUSWIL%20DPW%20ISPI%20Nasional-Jawa%20Tengah.docx)
+- [DAFTAR HADIR-ISPI DPW JATENG.xlsx](/Baru/Template/BA%20Jateng/DAFTAR%20HADIR-ISPI%20DPW%20JATENG.xlsx)
+- [DAFTAR HADIR-ISPI DPW.xlsx](/Baru/Template/BA%20Jateng/DAFTAR%20HADIR-ISPI%20DPW.xlsx)
+- [~$ MUSWIL DPW ISPI Nasional-Jawa Tengah.docx](/Baru/Template/BA%20Jateng/~%24%20MUSWIL%20DPW%20ISPI%20Nasional-Jawa%20Tengah.docx)
 
 ## pdf
 
