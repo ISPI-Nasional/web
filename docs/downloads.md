@@ -79,19 +79,6 @@ Berikut adalah daftar dokumen yang dapat diunduh:
 - [AHU 2.PDF](/Baru/Akta%20Notaris%20ISPI%20Nasional/AHU%202.PDF)
 - [Caver Akta.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/Caver%20Akta.pdf)
 
-## OpenSans
-
-- [OpenSans-Bold.ttf](/Baru/OpenSans/OpenSans-Bold.ttf)
-- [OpenSans-BoldItalic.ttf](/Baru/OpenSans/OpenSans-BoldItalic.ttf)
-- [OpenSans-ExtraBold.ttf](/Baru/OpenSans/OpenSans-ExtraBold.ttf)
-- [OpenSans-ExtraBoldItalic.ttf](/Baru/OpenSans/OpenSans-ExtraBoldItalic.ttf)
-- [OpenSans-Italic.ttf](/Baru/OpenSans/OpenSans-Italic.ttf)
-- [OpenSans-Light.ttf](/Baru/OpenSans/OpenSans-Light.ttf)
-- [OpenSans-LightItalic.ttf](/Baru/OpenSans/OpenSans-LightItalic.ttf)
-- [OpenSans-Regular.otf](/Baru/OpenSans/OpenSans-Regular.otf)
-- [OpenSans-Regular.ttf](/Baru/OpenSans/OpenSans-Regular.ttf)
-- [OpenSans-SemiBold.ttf](/Baru/OpenSans/OpenSans-SemiBold.ttf)
-- [OpenSans-SemiBoldItalic.ttf](/Baru/OpenSans/OpenSans-SemiBoldItalic.ttf)
 
 ## pdf
 
