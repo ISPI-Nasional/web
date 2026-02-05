@@ -81,15 +81,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-  image: 'img/docusaurus-social-card.jpg',
+      image: 'img/docusaurus-social-card.jpg',
 
-  algolia: {
-    appId: 'MWFSCNVWUI',
-    apiKey: 'd0ce466166dd034fc6ff987a7d51fc87',
-    indexName: 'ispinasional-or',
-    contextualSearch: true,
-  },
-  
+      algolia: {
+        appId: 'MWFSCNVWUI',
+        apiKey: 'd0ce466166dd034fc6ff987a7d51fc87',
+        indexName: 'ispinasional-or',
+        contextualSearch: true,
+      },
+
       navbar: {
         title: 'ISPI Nasional',
         logo: {
@@ -104,8 +104,8 @@ const config = {
             label: 'Beranda',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
-          { to: '/documents', label: 'Dokumen', position: 'left' },
-		  {
+          { to: '/downloads', label: 'Dokumen', position: 'left' },
+          {
             type: 'search',
             position: 'right',
           },
