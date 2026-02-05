@@ -79,7 +79,6 @@ Berikut adalah daftar dokumen yang dapat diunduh:
 - [AHU 2.PDF](/Baru/Akta%20Notaris%20ISPI%20Nasional/AHU%202.PDF)
 - [Caver Akta.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/Caver%20Akta.pdf)
 
-
 ## pdf
 
 - [03. PO. 001- Iuran Anggota.pdf](/Baru/pdf/03.%20PO.%20001-%20Iuran%20Anggota.pdf)
@@ -103,8 +102,10 @@ Berikut adalah daftar dokumen yang dapat diunduh:
 
 - [001. SK. DPP utk Pengesahan DPW Jateng.docx](/Baru/surat%20keluar/001.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Jateng.docx)
 - [001. SK. DPP utk Pengesahan DPW Jateng.pdf](/Baru/surat%20keluar/001.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Jateng.pdf)
+- [001. SK. DPP utk Pengesahan DPW Papua Barat Daya.docx](/Baru/surat%20keluar/001.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Papua%20Barat%20Daya.docx)
 - [002. SK. DPP utk Pengesahan DPW Sulsel.pdf](/Baru/surat%20keluar/002.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Sulsel.pdf)
 - [003. SK. DPP utk Pengesahan DPW Kaltim.pdf](/Baru/surat%20keluar/003.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Kaltim.pdf)
+- [004. SK. DPP utk Pengesahan DPW Papua Barat Daya.pdf](/Baru/surat%20keluar/004.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Papua%20Barat%20Daya.pdf)
 - [01 Blanko kop ISPI Nasional - Copy.docx](/Baru/surat%20keluar/01%20Blanko%20kop%20ISPI%20Nasional%20-%20Copy.docx)
 - [01 Blanko kop ISPI Nasional.docx](/Baru/surat%20keluar/01%20Blanko%20kop%20ISPI%20Nasional.docx)
 - [BERITA ACARA SILATDA ISPI NASIONAL.pdf](/Baru/surat%20keluar/BERITA%20ACARA%20SILATDA%20ISPI%20NASIONAL.pdf)
