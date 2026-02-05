@@ -78,6 +78,25 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        fromExtensions: ['html', 'htm'], // /myPage.html -> /myPage
+        createRedirects(existingPath) {
+          // Redirect from /docs/X to /X
+          if (!existingPath.startsWith('/docs') && !existingPath.startsWith('/blog')) {
+            return [
+              `/docs${existingPath}`,
+            ];
+          }
+          return undefined; // Return a falsy value: no redirect created
+        },
+      },
+    ],
+  ],
+
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
