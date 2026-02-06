@@ -9,6 +9,10 @@ Berikut adalah daftar dokumen yang dapat diunduh:
 
 ## Baru
 
+- [~$. Lampiran PO. 001- Iuran Anggota.docx](/Baru/~%24.%20Lampiran%20PO.%20001-%20Iuran%20Anggota.docx)
+- [~$. Lampiran PO.003-Pedoman Advokasi & Pembelaan Anggota.docx](/Baru/~%24.%20Lampiran%20PO.003-Pedoman%20Advokasi%20%26%20Pembelaan%20Anggota.docx)
+- [~$. Pakta Integritas.docx](/Baru/~%24.%20Pakta%20Integritas.docx)
+- [~$. PO. 001- Iuran Anggota.docx](/Baru/~%24.%20PO.%20001-%20Iuran%20Anggota.docx)
 - [01 Blanko kop ISPI Nasional.docx](/Baru/01%20Blanko%20kop%20ISPI%20Nasional.docx)
 - [01 PO xxx ISPI Nasional.docx](/Baru/01%20PO%20xxx%20ISPI%20Nasional.docx)
 - [02. Pakta Integritas.docx](/Baru/02.%20Pakta%20Integritas.docx)
@@ -46,12 +50,8 @@ Berikut adalah daftar dokumen yang dapat diunduh:
 - [x12. Lampiran PO 005-Peraturan Tata Cara Pembentukan DPW.pdf](/Baru/x12.%20Lampiran%20PO%20005-Peraturan%20Tata%20Cara%20Pembentukan%20DPW.pdf)
 - [x13. PO 006-Peraturan Tambahan.pdf](/Baru/x13.%20PO%20006-Peraturan%20Tambahan.pdf)
 - [x14. Lampiran PO 006-Peraturan Tambahan.pdf](/Baru/x14.%20Lampiran%20PO%20006-Peraturan%20Tambahan.pdf)
-- [~$. Lampiran PO. 001- Iuran Anggota.docx](/Baru/~%24.%20Lampiran%20PO.%20001-%20Iuran%20Anggota.docx)
-- [~$. Lampiran PO.003-Pedoman Advokasi & Pembelaan Anggota.docx](/Baru/~%24.%20Lampiran%20PO.003-Pedoman%20Advokasi%20%26%20Pembelaan%20Anggota.docx)
-- [~$. Pakta Integritas.docx](/Baru/~%24.%20Pakta%20Integritas.docx)
-- [~$. PO. 001- Iuran Anggota.docx](/Baru/~%24.%20PO.%20001-%20Iuran%20Anggota.docx)
 
-## Akta Notaris ISPI Nasional
+## Baru/Akta Notaris ISPI Nasional
 
 - [1.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/1.pdf)
 - [10.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/10.pdf)
@@ -79,7 +79,21 @@ Berikut adalah daftar dokumen yang dapat diunduh:
 - [AHU 2.PDF](/Baru/Akta%20Notaris%20ISPI%20Nasional/AHU%202.PDF)
 - [Caver Akta.pdf](/Baru/Akta%20Notaris%20ISPI%20Nasional/Caver%20Akta.pdf)
 
-## pdf
+## Baru/Template
+
+- [Berita Acara.docx](/Baru/Template/Berita%20Acara.docx)
+- [Daftar Hadir.docx](/Baru/Template/Daftar%20Hadir.docx)
+- [Notulen Rapat.docx](/Baru/Template/Notulen%20Rapat.docx)
+
+## Baru/Template/BA Jateng
+
+- [~$ MUSWIL DPW ISPI Nasional-Jawa Tengah.docx](/Baru/Template/BA%20Jateng/~%24%20MUSWIL%20DPW%20ISPI%20Nasional-Jawa%20Tengah.docx)
+- [BA Kepengurusan DPW ISPI Nasional-Jawa Tengah.docx](/Baru/Template/BA%20Jateng/BA%20Kepengurusan%20DPW%20ISPI%20Nasional-Jawa%20Tengah.docx)
+- [BA MUSWIL DPW ISPI Nasional-Jawa Tengah.docx](/Baru/Template/BA%20Jateng/BA%20MUSWIL%20DPW%20ISPI%20Nasional-Jawa%20Tengah.docx)
+- [DAFTAR HADIR-ISPI DPW JATENG.xlsx](/Baru/Template/BA%20Jateng/DAFTAR%20HADIR-ISPI%20DPW%20JATENG.xlsx)
+- [DAFTAR HADIR-ISPI DPW.xlsx](/Baru/Template/BA%20Jateng/DAFTAR%20HADIR-ISPI%20DPW.xlsx)
+
+## Baru/pdf
 
 - [03. PO. 001- Iuran Anggota.pdf](/Baru/pdf/03.%20PO.%20001-%20Iuran%20Anggota.pdf)
 - [04. Lampiran PO. 001- Iuran Anggota.pdf](/Baru/pdf/04.%20Lampiran%20PO.%20001-%20Iuran%20Anggota.pdf)
@@ -98,8 +112,9 @@ Berikut adalah daftar dokumen yang dapat diunduh:
 - [Struktur organisasi.pdf](/Baru/pdf/Struktur%20organisasi.pdf)
 - [Struktur organisasi.svg](/Baru/pdf/Struktur%20organisasi.svg)
 
-## surat keluar
+## Baru/surat keluar
 
+- [~$RAT KELUAR - 02, Pelantikan DPW.docx](/Baru/surat%20keluar/~%24RAT%20KELUAR%20-%2002%2C%20Pelantikan%20DPW.docx)
 - [001. SK. DPP utk Pengesahan DPW Jateng.docx](/Baru/surat%20keluar/001.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Jateng.docx)
 - [001. SK. DPP utk Pengesahan DPW Jateng.pdf](/Baru/surat%20keluar/001.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Jateng.pdf)
 - [001. SK. DPP utk Pengesahan DPW Papua Barat Daya.docx](/Baru/surat%20keluar/001.%20SK.%20DPP%20utk%20Pengesahan%20DPW%20Papua%20Barat%20Daya.docx)
@@ -126,21 +141,43 @@ Berikut adalah daftar dokumen yang dapat diunduh:
 - [Susunan acara dpw.docx](/Baru/surat%20keluar/Susunan%20acara%20dpw.docx)
 - [Susunan acara dpw.pdf](/Baru/surat%20keluar/Susunan%20acara%20dpw.pdf)
 - [Susunan Acara Pelantikan.pdf](/Baru/surat%20keluar/Susunan%20Acara%20Pelantikan.pdf)
-- [~$RAT KELUAR - 02, Pelantikan DPW.docx](/Baru/surat%20keluar/~%24RAT%20KELUAR%20-%2002%2C%20Pelantikan%20DPW.docx)
 
-## Template
+## Lainnya
 
-- [Berita Acara.docx](/Baru/Template/Berita%20Acara.docx)
-- [Daftar Hadir.docx](/Baru/Template/Daftar%20Hadir.docx)
-- [Notulen Rapat.docx](/Baru/Template/Notulen%20Rapat.docx)
+- [file-list.json](/file-list.json)
+- [url.md](/url.md)
 
-## Template/BA Jateng
+## docs
 
-- [BA Kepengurusan DPW ISPI Nasional-Jawa Tengah.docx](/Baru/Template/BA%20Jateng/BA%20Kepengurusan%20DPW%20ISPI%20Nasional-Jawa%20Tengah.docx)
-- [BA MUSWIL DPW ISPI Nasional-Jawa Tengah.docx](/Baru/Template/BA%20Jateng/BA%20MUSWIL%20DPW%20ISPI%20Nasional-Jawa%20Tengah.docx)
-- [DAFTAR HADIR-ISPI DPW JATENG.xlsx](/Baru/Template/BA%20Jateng/DAFTAR%20HADIR-ISPI%20DPW%20JATENG.xlsx)
-- [DAFTAR HADIR-ISPI DPW.xlsx](/Baru/Template/BA%20Jateng/DAFTAR%20HADIR-ISPI%20DPW.xlsx)
-- [~$ MUSWIL DPW ISPI Nasional-Jawa Tengah.docx](/Baru/Template/BA%20Jateng/~%24%20MUSWIL%20DPW%20ISPI%20Nasional-Jawa%20Tengah.docx)
+- [~$00 kop.docx](/docs/~%2400%20kop.docx)
+- [00 kop.docx](/docs/00%20kop.docx)
+- [01 Blanko kop ISPI Nasional.pdf](/docs/01%20Blanko%20kop%20ISPI%20Nasional.pdf)
+- [02. Pakta Integritas _OK.pdf](/docs/02.%20Pakta%20Integritas%20_OK.pdf)
+- [02. Pakta Integritas_checked.docx](/docs/02.%20Pakta%20Integritas_checked.docx)
+- [02. Pakta Integritas.docx](/docs/02.%20Pakta%20Integritas.docx)
+- [02. Pakta Integritas.pdf](/docs/02.%20Pakta%20Integritas.pdf)
+- [03. PO. 001- Iuran Anggota_checked.docx](/docs/03.%20PO.%20001-%20Iuran%20Anggota_checked.docx)
+- [03. PO. 001- Iuran Anggota_checked.pdf](/docs/03.%20PO.%20001-%20Iuran%20Anggota_checked.pdf)
+- [03. PO. 001- Iuran Anggota_OK.pdf](/docs/03.%20PO.%20001-%20Iuran%20Anggota_OK.pdf)
+- [03. PO. 001- Iuran Anggota.pdf](/docs/03.%20PO.%20001-%20Iuran%20Anggota.pdf)
+- [04. Lampiran PO. 001- Iuran Anggota.pdf](/docs/04.%20Lampiran%20PO.%20001-%20Iuran%20Anggota.pdf)
+- [04. PO.002- Pedoman Pengelolaan & Penggunaan Kekayaan_checked.docx](/docs/04.%20PO.002-%20Pedoman%20Pengelolaan%20%26%20Penggunaan%20Kekayaan_checked.docx)
+- [05. PO.003-Pedoman Advokasi _ Pembelaan Anggota_OK.pdf](/docs/05.%20PO.003-Pedoman%20Advokasi%20_%20Pembelaan%20Anggota_OK.pdf)
+- [05. PO.003-Pedoman Advokasi & Pembelaan Anggota_checked.docx](/docs/05.%20PO.003-Pedoman%20Advokasi%20%26%20Pembelaan%20Anggota_checked.docx)
+- [05. PO.003-Pedoman Advokasi & Pembelaan Anggota.docx](/docs/05.%20PO.003-Pedoman%20Advokasi%20%26%20Pembelaan%20Anggota.docx)
+- [06. Lampiran PO.002- Pedoman Pengelolaan & Penggunaan Kekayaan.pdf](/docs/06.%20Lampiran%20PO.002-%20Pedoman%20Pengelolaan%20%26%20Penggunaan%20Kekayaan.pdf)
+- [06. PO.004 - Tugas DPP_checked.docx](/docs/06.%20PO.004%20-%20Tugas%20DPP_checked.docx)
+- [06. PO.004 - Tugas DPP.docx](/docs/06.%20PO.004%20-%20Tugas%20DPP.docx)
+- [07. PO 005-Peraturan Tambahan_checked.docx](/docs/07.%20PO%20005-Peraturan%20Tambahan_checked.docx)
+- [07. PO.003-Pedoman Advokasi & Pembelaan Anggota.pdf](/docs/07.%20PO.003-Pedoman%20Advokasi%20%26%20Pembelaan%20Anggota.pdf)
+- [08. Lampiran PO.003-Pedoman Advokasi & Pembelaan Anggota.pdf](/docs/08.%20Lampiran%20PO.003-Pedoman%20Advokasi%20%26%20Pembelaan%20Anggota.pdf)
+- [09. PO.004 - Tugas DPP.pdf](/docs/09.%20PO.004%20-%20Tugas%20DPP.pdf)
+- [10. Lampiran PO.004 - Tugas DPP.pdf](/docs/10.%20Lampiran%20PO.004%20-%20Tugas%20DPP.pdf)
+- [11. PO 005-Peraturan Tambahan.pdf](/docs/11.%20PO%20005-Peraturan%20Tambahan.pdf)
+- [12. Lampiran PO 005-Peraturan Tambahan.pdf](/docs/12.%20Lampiran%20PO%20005-Peraturan%20Tambahan.pdf)
+- [Struktur organisasi.docx](/docs/Struktur%20organisasi.docx)
+- [Struktur organisasi.pdf](/docs/Struktur%20organisasi.pdf)
+- [SUSUNAN PENGURUS DPP ISPI Nasional.xlsx](/docs/SUSUNAN%20PENGURUS%20DPP%20ISPI%20Nasional.xlsx)
 
 ## pdf
 
